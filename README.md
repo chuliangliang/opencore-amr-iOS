@@ -1,5 +1,6 @@
 # opencore-amr_for_iOS
 iOS编译生成opencore-amr类库（libopencore-amrnb.a libopencore-amrwb.a）
+
 通过脚本编译 iOS opencore-amr类库
 
 支持的cpu指令集: i386 x86_64 armv7 armv7s arm64
